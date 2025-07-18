@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Copy of Geospatial Circle Generator",
+  "description": "An application to generate 360-degree coordinate points in circles around a central latitude and longitude for specified distances. Users can input a center point, define up to five distances in miles, and generate the corresponding geospatial data, which can then be exported to a CSV file.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
